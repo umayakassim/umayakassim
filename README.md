@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @umayakassim
 - 👀 I’m interested in technology
 - 🌱 I’m currently learning react js
-- front end bootstrap expert
-- 💞️ I’m looking to collaborate on projects start up
+- Front-end bootstrap expert
+- 💞️ I’m looking to collaborate on projects start up *project Manager 
 - 📫 How to reach me whats up +254715777080
 
 <!---
